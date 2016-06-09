@@ -1,0 +1,3 @@
+homePage:
+    pattern:  /core
+    defaults: { _controller: AcmecoreBundle:builder:core }

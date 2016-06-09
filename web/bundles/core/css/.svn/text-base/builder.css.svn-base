@@ -1,0 +1,68 @@
+.systemBox {
+  
+    border: 3px solid #555555;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 0 0 15px #FFFFFF;
+    cursor: move;
+}
+
+.toolsBox{
+	display: inline;
+	position: fixed;
+	left: 20px;
+	top: 100px;
+	height: 200px;
+    width: 250px;
+}
+
+.shapesBox{
+	display: inline;
+	position: fixed;
+	left: 20px;
+	top: 330px;
+	height: 200px;
+    width: 250px;
+}
+
+.friendsBox{
+	display: inline;
+	position: fixed;
+	left: 20px;
+	top: 560px;
+	height: 200px;
+    width: 250px;
+}
+
+#mainSubject{
+	display: inline;
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	height: auto;
+    width: auto;
+}
+
+.boxTop{
+	background-color:#B8B8B8;
+	background-repeat:no-repeat;
+	background-position: 5px 5px;
+	opacity:0.8;
+	width:100%;
+	height:40px;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.boxBottom{
+	background-color:#EEEEEE;
+	opacity:0.8;
+	width:100%;
+	min-height:153px;
+	border-radius: 0px 0px 10px 10px;
+}
+
+.polyDot{
+	border: 2px solid red;
+    border-radius: 10px 10px 10px 10px;
+    width:2px;
+    height:2px;
+}

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/riowall/!svn/ver/2/app/config
+END
+config_dev.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/riowall/!svn/ver/1/app/config/config_dev.yml
+END
+parameters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/riowall/!svn/ver/1/app/config/parameters.yml
+END
+config_test.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/riowall/!svn/ver/1/app/config/config_test.yml
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/riowall/!svn/ver/1/app/config/config.yml
+END
+routing_dev.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/riowall/!svn/ver/1/app/config/routing_dev.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/riowall/!svn/ver/2/app/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/riowall/!svn/ver/1/app/config/security.yml
+END
+config_prod.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/riowall/!svn/ver/1/app/config/config_prod.yml
+END

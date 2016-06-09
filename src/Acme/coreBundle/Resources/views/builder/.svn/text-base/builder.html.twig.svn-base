@@ -1,0 +1,18 @@
+{% extends 'AcmecoreBundle::layout.html.twig' %}
+{% block metadata %}
+<title>RioWall -- Interactive Image Creating & Sharing</title>
+{% endblock %}
+{% block stylesheets %}
+<link rel="stylesheet" href="{{ asset('bundles/core/css/builder.css') }}" type="text/css" media="all" />
+{% endblock %}
+{% block body %}
+<div id="mainSubject" class="ui-draggable systemBox">
+	<div class="dragFix" style="display:none;"></div>
+	<div><img src="{{asset('bundles/core/subject/storage_kids_wall_demo.jpg') }}"></div>
+	
+</div>
+{% include 'AcmecoreBundle:builder:tools.html.twig' %}
+{% include 'AcmecoreBundle:builder:friendsBox.html.twig' %}
+{% include 'AcmecoreBundle:builder:shapeBox.html.twig' %}
+<script src="{{ asset('bundles/core/js/builder.js') }}" type="text/javascript"></script>
+{% endblock %}

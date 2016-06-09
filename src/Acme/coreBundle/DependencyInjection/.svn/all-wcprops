@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/DependencyInjection
+END
+AcmecoreExtension.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/DependencyInjection/AcmecoreExtension.php
+END
+Configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/DependencyInjection/Configuration.php
+END

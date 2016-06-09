@@ -1,0 +1,22 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="Cache-control" content="no-Cache">
+		{% block metadata %}
+		{% endblock %}
+		{#
+		<link rel="shortcut icon" href="{{ asset('bundles/placeGuides/images/PG_favicon_color.png') }}" />
+		#}
+		<link rel="stylesheet" href="{{ asset('bundles/core/css/basic.css') }}" type="text/css" media="all" />
+		{% block stylesheets %}
+		{% endblock %}
+		
+		<script src="{{ asset('bundles/core/js/basic.js') }}" type="text/javascript"></script>
+		
+    </head>
+	<body>
+	{% block body %}
+	{% endblock %}
+    </body>
+</html>

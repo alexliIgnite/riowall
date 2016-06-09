@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/Resources/views/builder
+END
+friendsBox.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/Resources/views/builder/friendsBox.html.twig
+END
+builder.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/Resources/views/builder/builder.html.twig
+END
+shapeBox.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/Resources/views/builder/shapeBox.html.twig
+END
+tools.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/riowall/!svn/ver/3/src/Acme/coreBundle/Resources/views/builder/tools.html.twig
+END
